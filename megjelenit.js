@@ -15,5 +15,7 @@ htmlOsszeallit() {
   txt += "<ul>";
   return txt;
 }
+
+
 }
 export default ListaMegjelenit;
